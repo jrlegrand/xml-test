@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
 <document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
-   <id root="500a941f-04be-440e-92e9-7c5d3b196100"/>
+   <id root="23124460-5e8c-46a8-b2a7-9ee4f94b58ca"/>
    <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
    <title>These highlights do not include all the information needed to use TALICIA<sup>®</sup> safely and effectively. See full prescribing information for TALICIA.<br/>
       <br/>TALICIA (omeprazole magnesium, amoxicillin and rifabutin) delayed-release capsules, for oral use<br/>
       <br/>Initial U.S. Approval: 2019</title>
-   <effectiveTime value="20220307"/>
+   <effectiveTime value="20230912"/>
    <setId root="68c4e9dc-dbcf-4151-b6f7-5e4b9922b76f"/>
-   <versionNumber value="6"/>
+   <versionNumber value="8"/>
    <author>
       <time/>
       <assignedEntity>
@@ -323,16 +323,15 @@
             </section>
          </component>
          <component>
-            <section ID="L388a5886-2586-41bd-8700-7f3ece40ea25">
-               <id root="f7225010-9288-479e-adc9-a57895c6c86e"/>
+            <section ID="Ld5615639-657d-4fb7-866d-7b0b3a2befa9">
+               <id root="0da99ae2-c124-4b24-a64f-ead92d410b58"/>
                <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
                <text/>
-               <effectiveTime value="20220307"/>
+               <effectiveTime value="20230912"/>
                <excerpt>
                   <highlight>
                      <text>
-                        <paragraph>Warnings and Precautions, Severe Cutaneous Adverse Reactions (<linkHtml href="#L842a05c5-ae7d-477a-80c2-e32da0bfdc97">5.2</linkHtml>)        3/2022</paragraph>
-                        <paragraph>Warnings and Precautions, Severe Cutaneous Adverse Reactions (<linkHtml href="#L842a05c5-ae7d-477a-80c2-e32da0bfdc97">5.2</linkHtml>)        9/2021</paragraph>
+                        <paragraph>Dosage and Administration (<linkHtml href="#La51eefbb-3245-47b3-9e94-9d305c29b010">2</linkHtml>)                                 9/2023</paragraph>
                      </text>
                   </highlight>
                </excerpt>
@@ -340,25 +339,25 @@
          </component>
          <component>
             <section ID="Le22e52dc-01b6-4ede-bbe6-bdcff185af0a">
-               <id root="781d294f-d5cd-467f-a365-6cb99558ce0b"/>
+               <id root="a0f2323d-a6a1-4465-a7f6-34dd96286295"/>
                <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
                <title>1 INDICATIONS AND USAGE</title>
                <text>
                   <paragraph/>
                </text>
-               <effectiveTime value="20191113"/>
+               <effectiveTime value="20230912"/>
                <excerpt>
                   <highlight>
                      <text>
                         <paragraph styleCode="First HighlightListBullet">TALICIA is a three-drug combination of omeprazole, a proton pump inhibitor, amoxicillin, a penicillin-class antibacterial, and rifabutin, a rifamycin antibacterial, indicated for the treatment of <content styleCode="italics">Helicobacter pylori</content> infection in adults. (<linkHtml href="#L49ece149-cd26-4e85-a40c-d04b2622f722">1</linkHtml>)</paragraph>
-                        <br/>
-                        <paragraph styleCode="HighlightListBullet">To reduce the development of drug-resistant bacteria and maintain the effectiveness of TALICIA and other antibacterial drugs, TALICIA should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.</paragraph>
+                        <paragraph/>
+                        <paragraph styleCode="HighlightListBullet">To reduce the development of drug-resistant bacteria and maintain the effectiveness of TALICIA and other antibacterial drugs, TALICIA should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria. (1.2)</paragraph>
                      </text>
                   </highlight>
                </excerpt>
                <component>
                   <section ID="L75f8504f-2936-4501-9793-6b404c703695">
-                     <id root="dbad59de-537c-4768-9b4b-e406b393a740"/>
+                     <id root="33cd8e88-5674-4823-9198-d3f6d7d4c159"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>1.1 <content styleCode="italics">Helicobacter pylori</content> Infection</title>
                      <text>
@@ -367,43 +366,71 @@
                            <linkHtml href="#Ld84915fa-6ff4-4eff-915a-8848796a71eb">)</linkHtml>
                            <content styleCode="italics">]</content>.  </paragraph>
                      </text>
-                     <effectiveTime value="20191113"/>
+                     <effectiveTime value="20230912"/>
                   </section>
                </component>
                <component>
                   <section ID="L1beb9da6-2077-479a-8cf3-ddad9373621a">
-                     <id root="9c34813b-64e8-4cfd-9fa1-04e22ba9799e"/>
+                     <id root="907f9b18-ec4b-49f0-b9e0-5e962015f466"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>1.2 Usage</title>
                      <text>
                         <paragraph>To reduce the development of drug-resistant bacteria and maintain the effectiveness of TALICIA and other antibacterial drugs, TALICIA should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.</paragraph>
                      </text>
-                     <effectiveTime value="20191024"/>
+                     <effectiveTime value="20230912"/>
                   </section>
                </component>
             </section>
          </component>
          <component>
             <section ID="La51eefbb-3245-47b3-9e94-9d305c29b010">
-               <id root="fcebf700-093d-4bfb-9c28-0c70b2271d59"/>
+               <id root="7f40e6c5-7942-42b7-91e9-a80e9de12fbc"/>
                <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
                <title>2 DOSAGE AND ADMINISTRATION</title>
-               <text>
-                  <paragraph>Administer four (4) TALICIA capsules every 8 hours for 14 days with food. Instruct patients to swallow the TALICIA capsules whole, with a full glass of water (8 ounces). Each dose (4 capsules) of TALICIA includes rifabutin 50 mg, amoxicillin 1,000 mg and omeprazole 40 mg. Do not crush or chew TALICIA capsules. Do not take TALICIA with alcohol.</paragraph>
-                  <paragraph>If a dose is missed, patients should continue the normal dosing schedule until the medication is completed. Do not take two doses at one time to make up for a missed dose.</paragraph>
-               </text>
-               <effectiveTime value="20191030"/>
+               <text/>
+               <effectiveTime value="20230912"/>
                <excerpt>
                   <highlight>
                      <text>
                         <list listType="unordered">
-                           <item>Administer four (4) TALICIA capsules every 8 hours with food for 14 days. (<linkHtml href="#La51eefbb-3245-47b3-9e94-9d305c29b010">2</linkHtml>)</item>
-                           <item>Swallow whole. Do not crush or chew. (<linkHtml href="#La51eefbb-3245-47b3-9e94-9d305c29b010">2</linkHtml>)</item>
-                           <item>Do not take TALICIA with alcohol. (<linkHtml href="#La51eefbb-3245-47b3-9e94-9d305c29b010">2</linkHtml>)</item>
+                           <item>Administer four (4) TALICIA capsules three times daily (at least 4 hours apart, e.g., morning, mid-day, and evening) with food for 14 days. (<linkHtml href="#L76331050-53d6-4c83-b281-538352a1cebe">2.1</linkHtml>)</item>
+                           <item>Swallow whole. Do not crush or chew. (<linkHtml href="#L76331050-53d6-4c83-b281-538352a1cebe">2.1</linkHtml>)</item>
+                           <item>Do not take TALICIA with alcohol. (<linkHtml href="#L76331050-53d6-4c83-b281-538352a1cebe">2.1</linkHtml>)</item>
                         </list>
                      </text>
                   </highlight>
                </excerpt>
+               <component>
+                  <section ID="L76331050-53d6-4c83-b281-538352a1cebe">
+                     <id root="88920134-5dd7-4034-a5bd-d403c6bc3b1d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Recommended Dosage</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Administer four (4) TALICIA capsules three times daily (at least 4 hours apart, e.g., morning, mid-day, and evening) with food for 14 days. Instruct patients to swallow the TALICIA capsules whole, with a full glass of water (8 ounces). Each dose (4 capsules) of TALICIA includes rifabutin 50 mg, amoxicillin 1,000 mg and omeprazole 40 mg. Do not crush or chew TALICIA capsules. Do not take TALICIA with alcohol.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20230912"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L4418415e-487f-45fe-b809-dd4b7e09f451">
+                     <id root="1c18e085-46c2-4ff0-9cb9-b21fc823e0d9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Missed Doses</title>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <content styleCode="xmChange">If a dose is missed and the next dose is not within 4 hours, administer the missed dose as soon as possible.</content>
+                           </item>
+                           <item>
+                              <content styleCode="xmChange">If a dose is missed and the next dose is within 4 hours, administer the missed dose as soon as possible and delay the next dose to ensure there are at least 4 hours between two doses.</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20230912"/>
+                  </section>
+               </component>
             </section>
          </component>
          <component>
@@ -491,11 +518,11 @@
          </component>
          <component>
             <section ID="L6599d467-8c4f-438c-ab55-948ba5f55c49">
-               <id root="597b4b5b-73f4-4837-9f80-637273eb4f3c"/>
+               <id root="963034cf-9846-434c-920f-106c306a8a1d"/>
                <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
                <title>5 WARNINGS AND PRECAUTIONS</title>
                <text/>
-               <effectiveTime value="20211208"/>
+               <effectiveTime value="20230616"/>
                <excerpt>
                   <highlight>
                      <text>
@@ -513,33 +540,30 @@
                </excerpt>
                <component>
                   <section ID="Lfa60d77f-9f49-4ef8-aa0d-cdc7fdaea077">
-                     <id root="cc2ccb66-1812-48a0-a0fe-50de48d02d58"/>
+                     <id root="946635f6-24a9-42d5-93a0-ed9b7d185815"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>5.1 Hypersensitivity Reactions</title>
                      <text>
-                        <paragraph styleCode="First Paragraph">Serious and fatal hypersensitivity reactions, e.g., anaphylaxis, angioedema, erythema multiforme, exfoliative dermatitis, hypersensitivity vasculitis, acute tubulointerstitial nephritis, and serum sickness have been reported
-with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragraph>
+                        <paragraph styleCode="First Paragraph">Serious and fatal hypersensitivity reactions, e.g., anaphylaxis, angioedema, erythema multiforme, exfoliative dermatitis, hypersensitivity vasculitis, acute tubulointerstitial nephritis, and serum sickness have been reported with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragraph>
                         <paragraph styleCode="Paragraph">Signs and symptoms of these reactions may include hypotension, urticaria, angioedema, acute bronchospasm, conjunctivitis, thrombocytopenia, neutropenia or flu-like syndrome (weakness, fatigue, muscle pain, nausea, vomiting, headache, fever, chills, aches, rash, itching, sweats, dizziness, shortness of breath, chest pain, cough, syncope, palpitations).</paragraph>
                         <paragraph styleCode="Paragraph">There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.</paragraph>
                         <paragraph styleCode="Paragraph">Before initiating therapy with TALICIA, inquire about history of hypersensitivity reactions to penicillins, cephalosporins, rifamycins, or PPIs. Discontinue TALICIA and institute immediate therapy, if hypersensitivity reactions occur.</paragraph>
                      </text>
-                     <effectiveTime value="20211005"/>
+                     <effectiveTime value="20230616"/>
                   </section>
                </component>
                <component>
                   <section ID="L842a05c5-ae7d-477a-80c2-e32da0bfdc97">
-                     <id root="42226004-488b-4a8b-8f36-09f86f9e96f3"/>
+                     <id root="38e0330b-ecdc-49bf-999a-1a2424bbb8a4"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>5.2 Severe Cutaneous Adverse Reactions</title>
                      <text>
-                        <paragraph>
-                           <content styleCode="xmChange">Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the components of TALICIA: rifabutin, amoxicillin, and omeprazole <content styleCode="italics">[see <linkHtml href="#Lfa60d77f-9f49-4ef8-aa0d-cdc7fdaea077">Warnings and Precautions (5.1)</linkHtml> and <linkHtml href="#Le3f2391d-5e3f-4ec0-9d30-8bde4ab1d42d">Adverse Reactions (6.3)</linkHtml>]</content>. </content>
+                        <paragraph>Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the components of TALICIA: rifabutin, amoxicillin, and omeprazole <content styleCode="italics">[see <linkHtml href="#Lfa60d77f-9f49-4ef8-aa0d-cdc7fdaea077">Warnings and Precautions (5.1)</linkHtml> and <linkHtml href="#Le3f2391d-5e3f-4ec0-9d30-8bde4ab1d42d">Adverse Reactions (6.3)</linkHtml>]</content>.
                         </paragraph>
-                        <paragraph>
-                           <content styleCode="xmChange">Monitor closely and discontinue TALICIA at the first signs of SCAR.</content>
+                        <paragraph>Monitor closely and discontinue TALICIA at the first signs of SCAR.
                         </paragraph>
                      </text>
-                     <effectiveTime value="20211208"/>
+                     <effectiveTime value="20230616"/>
                   </section>
                </component>
                <component>
@@ -659,7 +683,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
          </component>
          <component>
             <section ID="Lb6d93ca1-5f6d-4750-8030-145de803b623">
-               <id root="eb0d498d-cb39-4256-b9e3-6ff8a90d60b3"/>
+               <id root="6f36546e-5ae2-4ff3-9434-13e1357f9ef2"/>
                <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
                <title>6 ADVERSE REACTIONS</title>
                <text>
@@ -682,7 +706,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                      </item>
                   </list>
                </text>
-               <effectiveTime value="20211208"/>
+               <effectiveTime value="20230616"/>
                <excerpt>
                   <highlight>
                      <text>
@@ -696,7 +720,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                </excerpt>
                <component>
                   <section ID="L2ad4b641-28d3-48e0-970c-74f70cffbddc">
-                     <id root="2bb5623b-8e6e-435b-8c50-7f8042c598b1"/>
+                     <id root="d3f33d72-e0bf-4f4c-99a4-fb2f9953050a"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>6.1 Clinical Trials Experience with TALICIA</title>
                      <text>
@@ -956,7 +980,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                         </table>
                         <paragraph/>
                      </text>
-                     <effectiveTime value="20211005"/>
+                     <effectiveTime value="20230616"/>
                   </section>
                </component>
                <component>
@@ -986,7 +1010,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                </component>
                <component>
                   <section ID="Le3f2391d-5e3f-4ec0-9d30-8bde4ab1d42d">
-                     <id root="00e69747-9c0d-43f4-ba0c-5f08c42731d6"/>
+                     <id root="aeee4b2d-6b38-407e-badd-f58d0544303b"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <title>6.3 Post-Marketing Experience with Components of TALICIA</title>
                      <text>
@@ -1019,7 +1043,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                         <paragraph styleCode="Paragraph">
                            <content styleCode="italics">Ocular: </content>optic atrophy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision</paragraph>
                         <paragraph styleCode="CM40">
-                           <content styleCode="italics">Urogenital: </content>hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain</paragraph>
+                           <content styleCode="italics">Urogenital: </content>hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain, erectile dysfunction</paragraph>
                         <paragraph styleCode="Paragraph">
                            <content styleCode="italics">Hematologic: </content>Agranulocytosis, hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leukocytosis</paragraph>
                         <paragraph styleCode="Paragraph">
@@ -1050,7 +1074,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                         <paragraph styleCode="Paragraph">
                            <content styleCode="italics">Skin and subcutaneous tissue disorders:</content> SCAR, such as SJS, TEN, DRESS, and AGEP.</paragraph>
                      </text>
-                     <effectiveTime value="20220307"/>
+                     <effectiveTime value="20230616"/>
                   </section>
                </component>
             </section>
@@ -1593,10 +1617,10 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
          </component>
          <component>
             <section ID="L6b106113-d4a3-457a-8bca-51f92f2f6fee">
-               <id root="6bc8e6fc-6182-4f77-99f9-6e2d884eb8c0"/>
+               <id root="ea0a4063-9d15-4c4b-a1ff-00485a1d33b4"/>
                <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
                <title>8 USE IN SPECIFIC POPULATIONS</title>
-               <effectiveTime value="20191030"/>
+               <effectiveTime value="20230912"/>
                <excerpt>
                   <highlight>
                      <text>
@@ -1610,23 +1634,23 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                </excerpt>
                <component>
                   <section ID="La821921a-7e44-4dcd-8631-a67cb3d65cca">
-                     <id root="eb332ef4-76fc-48ca-8f6d-6f1e005b9431"/>
+                     <id root="9347a913-b3d1-4381-9c76-19a929deacbe"/>
                      <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
                      <title>8.1 Pregnancy</title>
                      <text>
                         <paragraph/>
                      </text>
-                     <effectiveTime value="20191028"/>
+                     <effectiveTime value="20230912"/>
                      <component>
                         <section ID="L2dda4392-d24e-4406-845e-8b85c85c8b21">
-                           <id root="10df3ccb-fd49-4d78-84c8-fe77423bcb73"/>
+                           <id root="debce2df-32e4-4aa5-b408-621ee8ed8c8a"/>
                            <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                            <title/>
                            <text>
                               <paragraph>
                                  <content styleCode="underline">Risk Summary</content>
                               </paragraph>
-                              <paragraph styleCode="Paragraph">Based on animal reproduction studies, TALICIA may cause fetal harm when administered to pregnant women.  There are no adequate and well controlled studies of amoxicillin, omeprazole, or rifabutin (used separately or together) in pregnant women. Use of TALICIA is generally not recommended for use in pregnancy. If TALICIA is used during pregnancy, advise pregnant women of the potential risk to a fetus.</paragraph>
+                              <paragraph styleCode="Paragraph">Based on animal reproduction studies, TALICIA may cause fetal harm when administered to pregnant women. There are no adequate and well controlled studies of amoxicillin, omeprazole, or rifabutin (used separately or together) in pregnant women. Use of TALICIA is generally not recommended for use in pregnancy. If TALICIA is used during pregnancy, advise pregnant women of the potential risk to a fetus.</paragraph>
                               <paragraph styleCode="Paragraph">
                                  <content styleCode="underline">Omeprazole:</content> Available epidemiologic data do not demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use. Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 1.13 to 11 times an oral human dose of 120 mg.</paragraph>
                               <paragraph styleCode="Paragraph">Fetal malformations were not observed in animal reproduction studies with administration of oral esomeprazole (an enantiomer of omeprazole) magnesium in rats and rabbits during organogenesis with doses about 23 times and 14 times, respectively, of an oral human dose of 120 mg esomeprazole or omeprazole. Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 11 times an oral human dose of 120 mg esomeprazole or omeprazole. When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age<content styleCode="italics"> [see <linkHtml href="#pregdata">Data</linkHtml>]</content>.</paragraph>
@@ -1637,12 +1661,12 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                               </paragraph>
                               <paragraph styleCode="Paragraph">The estimated background risks of major birth defects and miscarriage for the indicated population are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. </paragraph>
                            </text>
-                           <effectiveTime value="20191028"/>
+                           <effectiveTime value="20230912"/>
                         </section>
                      </component>
                      <component>
                         <section ID="Ldb26eba4-d078-452a-85ed-95de6fff8e21">
-                           <id root="621f9317-29e6-464c-a257-7609658edce5"/>
+                           <id root="6a81c9e9-02b8-4efe-a9f7-30885e8c2d6b"/>
                            <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                            <title/>
                            <text>
@@ -1664,7 +1688,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                               <paragraph>
                                  <content styleCode="underline">Amoxicillin</content>
                               </paragraph>
-                              <paragraph>While available studies cannot definitively establish the absence of risk, published epidemiological data and postmarketing case reports have not reported a consistent association with amoxicillin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when amoxicillin was used during pregnancy.  Available studies have methodologic limitations, including small sample size, retrospective data collection, under-capture of non-live births, exposure misclassification and inconsistent comparator groups.</paragraph>
+                              <paragraph>While available studies cannot definitively establish the absence of risk, published epidemiological data and post-marketing case reports have not reported a consistent association with amoxicillin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when amoxicillin was used during pregnancy.  Available studies have methodologic limitations, including small sample size, retrospective data collection, under-capture of non-live births, exposure misclassification and inconsistent comparator groups.</paragraph>
                               <paragraph styleCode="Paragraph">
                                  <content styleCode="underline">Rifabutin</content>
                               </paragraph>
@@ -1694,7 +1718,7 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                               </paragraph>
                               <paragraph styleCode="Paragraph">Reproduction studies have been carried out in rats and rabbits given rifabutin using dose levels up to 200 mg/kg (about 6 to 13 times the recommended human daily dose based on body surface area comparisons). No fetal malformations were observed in either species. In rats, given 200 mg/kg/day, (about 6 times the recommended human daily dose based on body surface area comparisons), there was a decrease in fetal viability. In rats, at 40 mg/kg/day (approximately equivalent to the recommended human daily dose based on body surface area comparisons), rifabutin caused an increase in fetal skeletal variations. In rabbits, at 80 mg/kg/day (about 5 times the recommended human daily dose based on body surface area comparisons), rifabutin caused maternal toxicity and increase in fetal skeletal anomalies.</paragraph>
                            </text>
-                           <effectiveTime value="20191028"/>
+                           <effectiveTime value="20230912"/>
                         </section>
                      </component>
                   </section>
@@ -3305,14 +3329,14 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
          </component>
          <component>
             <section ID="Lbe681255-9608-486b-a4e5-4c04ce51a97b">
-               <id root="a6119510-8cca-40a6-b35b-2640ec4bbad8"/>
+               <id root="46e4f273-f6de-4b96-a2a0-04b4c7000c12"/>
                <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
                <title>17 PATIENT COUNSELING INFORMATION</title>
                <text/>
-               <effectiveTime value="20211005"/>
+               <effectiveTime value="20230912"/>
                <component>
                   <section ID="Lb83983b9-8bbd-43a7-acb1-820af56cf1b8">
-                     <id root="1c474259-fa54-4e0e-9646-9f29a638b434"/>
+                     <id root="a61eb240-4366-4169-a8fe-f71f40ae6b4b"/>
                      <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
                      <text>
                         <paragraph styleCode="First Gmail-paragraph">
@@ -3355,11 +3379,11 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                            <content styleCode="underline">Important Administration Instructions for TALICIA</content>
                         </paragraph>
                         <list listType="unordered">
-                           <item>Advise patients to take four (4) TALICIA capsules every eight hours with food for 14 days. They should NOT crush or chew capsules.</item>
+                           <item>Advise patients to take four (4) TALICIA capsules three times daily (at least 4 hours apart, e.g., morning, mid-day, and evening) with food for 14 days. They should NOT crush or chew capsules.</item>
                            <item>Advise patients to swallow TALICIA with at least 8 ounces of water.</item>
                            <item>Advise patients not to take TALICIA with alcohol.</item>
                            <item>
-                              <content styleCode="italics">Missed doses</content>: Advise patients that if a dose is missed, administer as soon as possible. However, if the next scheduled dose is due, take the next dose on time. Do not take two doses at one time to make up for a missed dose.  It is important for patients to complete the entire course of therapy.</item>
+                              <content styleCode="italics">Missed doses</content>: Advise patients that if a dose is missed, and the next dose is not within 4 hours, administer as soon as possible. However, if a dose is missed and the next dose is within 4 hours, administer the missed dose as soon as possible and delay the next dose to ensure there are at least 4 hours between two doses.<br/>It is important for patients to complete the entire course of therapy.</item>
                            <item>Counsel patients that antacids may be used concomitantly with TALICIA.</item>
                            <item>Counsel patients to continue the full course of TALICIA regardless of whether or not their symptoms improve.  Although change in dyspepsia symptoms may occur (either improvement or worsening), these are unlikely to be related to the <content styleCode="italics">H. pylori</content> infection. Counsel patients that treatment of <content styleCode="italics">H. pylori</content> infection is important due to its association with stomach ulcers, atrophic gastritis and increased risk of gastric cancer. </item>
                         </list>
@@ -3372,9 +3396,9 @@ with the components of TALICIA: omeprazole, amoxicillin and rifabutin.</paragrap
                         <paragraph styleCode="Paragraph">TALICIA is distributed by RedHill Biopharma Inc. Raleigh, NC</paragraph>
                         <paragraph styleCode="Paragraph">TALICIA is manufactured in Sweden for RedHill Biopharma Ltd. Tel Aviv, Israel</paragraph>
                         <paragraph styleCode="Paragraph">TALICIA is a trademark registered with the U.S. Patent and Trademark Office and used under license by RedHill Biopharma Inc.</paragraph>
-                        <paragraph styleCode="Paragraph">© 2019 RedHill Biopharma Ltd. All rights reserved.</paragraph>
+                        <paragraph styleCode="Paragraph">© 2023 RedHill Biopharma Ltd. All rights reserved.</paragraph>
                      </text>
-                     <effectiveTime value="20211005"/>
+                     <effectiveTime value="20230912"/>
                   </section>
                </component>
             </section>
